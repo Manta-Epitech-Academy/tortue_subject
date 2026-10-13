@@ -29,4 +29,4 @@ Moteur : **python** (python).
 - Bonus 4 : les rayons des roues (1 indice)
 - Bonus 5 : un toit arrondi
 
-**12 étapes**, 5 quiz, 6 indices, 17 images.
+**12 étapes**, 5 quiz, 6 indices, 18 images.
