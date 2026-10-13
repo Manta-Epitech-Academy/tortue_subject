@@ -1,0 +1,7 @@
+schema_version: "1.0"
+answers:
+  direction: {answer: B}
+  quart-de-tour: {answer: A}
+  demi-tour: {answer: B}
+  mot-cle: {answer: A}
+  decalage: {answer: A}

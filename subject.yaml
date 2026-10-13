@@ -1,0 +1,33 @@
+schema_version: "2.0"
+
+project:
+  name: "Dessine avec la tortue"
+  slug: "tortue"
+  summary: "Tes premiers dessins en Python, étape par étape, avec le module turtle."
+  entrypoint: "intro.md"
+
+cover:
+  media: img/cover.png
+  tagline: "Quelques lignes de Python, et la tortue dessine ce que tu lui dis."
+
+runtime:
+  engine: "python"
+  language: "python"
+  id: "python-turtle"
+  version: "670a4d1"
+  title: "Tortue"
+  pane:
+    placement: side
+    open: false
+    size: 45
+
+platform:
+  mode_default: instructor_led
+  validation_default: checkpoint
+  points_default: 25
+
+documents:
+  - intro.md
+  - premiers-traits.md
+  - fonctions.md
+  - voiture.md
