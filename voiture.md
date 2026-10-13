@@ -11,7 +11,9 @@ la tortue sait faire des ronds et se déplacer sans tracer.
 ## Dessine une voiture
 <!-- ws: {type: exercise, id: voiture, points: 50} -->
 
-Tu as déjà tous les outils à disposition.
+Tu as déjà tous les outils à disposition. Garde la définition de ta fonction
+`rectangle(largeur, hauteur)`, et efface tout ce qui vient en dessous : les appels et les
+déplacements de l'étape précédente.
 
 <!-- ws:toolbox -->
 ### Boîte à outils

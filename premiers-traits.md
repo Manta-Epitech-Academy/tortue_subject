@@ -96,7 +96,9 @@ fais-la tourner vers la droite d'un quart de tour, et avancer encore de 100 pas.
 ## Un carré
 <!-- ws: {type: exercise, id: carre} -->
 
-Tu sais maintenant avancer et tourner. Prochaine étape : dessiner un carré.
+Tu sais maintenant avancer et tourner. Prochaine étape : dessiner un carré. Avant de
+commencer, efface tout le programme de l'éditeur sauf sa première ligne,
+`from turtle import *`.
 
 ### Mise en application
 <!-- ws:doit -->

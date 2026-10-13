@@ -15,8 +15,7 @@ fonctions.
 ## Un rectangle en une commande
 <!-- ws: {type: exercise, id: fonction, validation: quiz} -->
 
-Efface tout le programme de l'éditeur sauf sa première ligne, `from turtle import *`, et
-clique sur **Effacer le dessin** pour repartir d'un écran vide.
+Efface tout le programme de l'éditeur sauf sa première ligne, `from turtle import *`.
 
 <!-- ws:toolbox -->
 ### Boîte à outils
@@ -108,8 +107,9 @@ au moment de l'appel.
 <!-- ws:doit -->
 
 Ton objectif : ta fonction devient `rectangle(largeur, hauteur)` et dessine un rectangle de la
-taille demandée, là où se trouve la tortue. Appelle-la deux fois, avec deux tailles
-différentes, à deux endroits différents.
+taille demandée, là où se trouve la tortue. Modifie aussi l'appel de l'étape précédente :
+`rectangle()` sans valeurs ne marche plus, il lui faut maintenant une largeur et une hauteur.
+Appelle-la deux fois, avec deux tailles différentes, à deux endroits différents.
 
 Voici par exemple ce que ça peut donner :
 
