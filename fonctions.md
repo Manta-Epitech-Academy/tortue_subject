@@ -13,7 +13,7 @@ fonctions que quelqu'un a écrites pour toi. Dans cette partie, tu vas écrire t
 fonctions.
 
 ## Un rectangle en une commande
-<!-- ws: {type: exercise, id: fonction, points: 60, validation: quiz} -->
+<!-- ws: {type: exercise, id: fonction, points: 65, validation: quiz} -->
 
 Efface tout le programme de l'éditeur sauf sa première ligne, `from turtle import *`.
 
@@ -77,7 +77,7 @@ puis la hauteur, puis la largeur, puis la hauteur.
 - D. Il remplace les parenthèses de l'appel
 
 ## Un rectangle de n'importe quelle taille
-<!-- ws: {type: exercise, id: arguments, points: 50} -->
+<!-- ws: {type: exercise, id: arguments, points: 55} -->
 
 Ta fonction dessine toujours le même rectangle. Pour un dessin, il en faut souvent plusieurs,
 de tailles différentes. Plutôt qu'une fonction par taille, une seule, à qui tu dis la taille

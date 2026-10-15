@@ -49,7 +49,7 @@ Commence par prendre en main l'environnement de l'atelier.
 - D. Vers le bas
 
 ## Tourne
-<!-- ws: {type: exercise, id: tourner, points: 30, validation: quiz} -->
+<!-- ws: {type: exercise, id: tourner, points: 35, validation: quiz} -->
 
 Avancer ne suffit pas : il faut aussi tourner. Après ton `forward(100)`, fais tourner la
 tortue vers la gauche d'un quart de tour, puis fais-la avancer à nouveau de 100 pas. Ensuite,
@@ -119,7 +119,7 @@ Un carré, c'est quatre côtés de la même longueur, et quatre coins identiques
 </details>
 
 ## Un rond à côté du carré
-<!-- ws: {type: exercise, id: rond, points: 40} -->
+<!-- ws: {type: exercise, id: rond, points: 45} -->
 
 La tortue se déplace dans un repère. Elle commence au centre de l'écran, au point `(0, 0)`,
 et `setpos(x, y)` te permet de changer sa position dans ce repère.
