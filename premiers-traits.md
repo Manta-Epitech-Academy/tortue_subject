@@ -121,10 +121,6 @@ Un carré, c'est quatre côtés de la même longueur, et quatre coins identiques
 ## Un rond à côté du carré
 <!-- ws: {type: exercise, id: rond} -->
 
-L'écran est un repère : la tortue part du point `(0, 0)`, `x` grandit vers la droite et `y`
-vers le haut. Ton carré occupe l'espace entre `x = 0` et `x = 100`. À gauche du centre, `x`
-est négatif ; en dessous, `y` est négatif.
-
 ![Le repère de l'écran : l'axe x vers la droite, l'axe y vers le haut, le point (0, 0) au centre, le carré de l'étape précédente entre x = 0 et x = 100, et deux points bleus à x = -180 et à y = -100.](img/repere.png)
 
 <!-- ws:toolbox -->
