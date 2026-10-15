@@ -9,7 +9,7 @@ Tu as tout ce qu'il faut : une fonction qui dessine un rectangle de la taille qu
 la tortue sait faire des ronds et se déplacer sans tracer.
 
 ## Dessine une voiture
-<!-- ws: {type: exercise, id: voiture, points: 50} -->
+<!-- ws: {type: exercise, id: voiture, points: 80} -->
 
 Tu as déjà tous les outils à disposition. Garde la définition de ta fonction
 `rectangle(largeur, hauteur)`, et efface tout ce qui vient en dessous.
@@ -56,7 +56,7 @@ Ta voiture roule. Maintenant, elle est à toi. Chaque bonus ajoute une pièce en
 précédentes : tu peux t'arrêter quand tu veux, ou aller jusqu'au bout.
 
 ## Bonus 1 : de la couleur
-<!-- ws: {type: exercise, id: couleur, optional: true} -->
+<!-- ws: {type: exercise, id: couleur, points: 40, optional: true} -->
 
 <!-- ws:toolbox -->
 ### Boîte à outils
@@ -87,7 +87,7 @@ autre.
 ![La même voiture, carrosserie et habitacle bleus, roues noires.](img/bonus-couleur.png)
 
 ## Bonus 2 : les phares
-<!-- ws: {type: exercise, id: phares, optional: true, requires: [couleur]} -->
+<!-- ws: {type: exercise, id: phares, points: 30, optional: true, requires: [couleur]} -->
 
 <!-- ws:toolbox -->
 ### Boîte à outils
@@ -107,7 +107,7 @@ Ton objectif : un phare jaune à l'avant de la voiture, un feu rouge à l'arriè
 ![La voiture avec un point jaune sur l'avant de la carrosserie et un point rouge à l'arrière.](img/bonus-phares.png)
 
 ## Bonus 3 : le pot d'échappement
-<!-- ws: {type: exercise, id: echappement, optional: true, requires: [phares]} -->
+<!-- ws: {type: exercise, id: echappement, points: 40, optional: true, requires: [phares]} -->
 
 Rien de neuf dans la boîte à outils : tout est déjà dans tes mains.
 
@@ -117,7 +117,7 @@ derrière lui trois petits ronds de fumée.
 ![La voiture avec un petit pot d'échappement à l'arrière et trois ronds de fumée qui s'en échappent.](img/bonus-echappement.png)
 
 ## Bonus 4 : les rayons des roues
-<!-- ws: {type: exercise, id: rayons, optional: true, requires: [echappement]} -->
+<!-- ws: {type: exercise, id: rayons, points: 80, optional: true, requires: [echappement]} -->
 
 <!-- ws:toolbox -->
 ### Boîte à outils
@@ -157,7 +157,7 @@ la même chose.
 </details>
 
 ## Bonus 5 : un toit arrondi
-<!-- ws: {type: exercise, id: toit, optional: true, requires: [rayons]} -->
+<!-- ws: {type: exercise, id: toit, points: 60, optional: true, requires: [rayons]} -->
 
 <!-- ws:toolbox -->
 ### Boîte à outils

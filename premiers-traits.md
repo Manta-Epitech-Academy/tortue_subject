@@ -9,7 +9,7 @@ La tortue part du centre de l'écran. Elle avance quand on lui dit d'avancer, et
 une trace derrière elle.
 
 ## Lance la tortue
-<!-- ws: {type: exercise, id: lancer, validation: quiz} -->
+<!-- ws: {type: exercise, id: lancer, points: 20, validation: quiz} -->
 <!-- étape de modelage : le code est donné volontairement -->
 
 Commence par prendre en main l'environnement de l'atelier.
@@ -49,7 +49,7 @@ Commence par prendre en main l'environnement de l'atelier.
 - D. Vers le bas
 
 ## Tourne
-<!-- ws: {type: exercise, id: tourner, validation: quiz} -->
+<!-- ws: {type: exercise, id: tourner, points: 30, validation: quiz} -->
 
 Avancer ne suffit pas : il faut aussi tourner. Après ton `forward(100)`, fais tourner la
 tortue vers la gauche d'un quart de tour, puis fais-la avancer à nouveau de 100 pas. Ensuite,
@@ -94,7 +94,7 @@ fais-la tourner vers la droite d'un quart de tour, et avancer encore de 100 pas.
 - D. `left(90)`
 
 ## Un carré
-<!-- ws: {type: exercise, id: carre} -->
+<!-- ws: {type: exercise, id: carre, points: 20} -->
 
 Tu sais maintenant avancer et tourner. Prochaine étape : dessiner un carré. Avant de
 commencer, efface tout le programme de l'éditeur sauf sa première ligne,
@@ -119,7 +119,7 @@ Un carré, c'est quatre côtés de la même longueur, et quatre coins identiques
 </details>
 
 ## Un rond à côté du carré
-<!-- ws: {type: exercise, id: rond} -->
+<!-- ws: {type: exercise, id: rond, points: 40} -->
 
 La tortue se déplace dans un repère. Elle commence au centre de l'écran, au point `(0, 0)`,
 et `setpos(x, y)` te permet de changer sa position dans ce repère.
